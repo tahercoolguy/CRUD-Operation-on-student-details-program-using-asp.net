@@ -1,0 +1,5 @@
+C:\Users\best\Documents\Visual Studio 2012\Projects\StudentCheckingWithoutMVC\StudentCheckingWithoutMVC\bin\StudentCheckingWithoutMVC.dll
+C:\Users\best\Documents\Visual Studio 2012\Projects\StudentCheckingWithoutMVC\StudentCheckingWithoutMVC\bin\StudentCheckingWithoutMVC.pdb
+C:\Users\best\Documents\Visual Studio 2012\Projects\StudentCheckingWithoutMVC\StudentCheckingWithoutMVC\obj\Debug\StudentCheckingWithoutMVC.csprojResolveAssemblyReference.cache
+C:\Users\best\Documents\Visual Studio 2012\Projects\StudentCheckingWithoutMVC\StudentCheckingWithoutMVC\obj\Debug\StudentCheckingWithoutMVC.dll
+C:\Users\best\Documents\Visual Studio 2012\Projects\StudentCheckingWithoutMVC\StudentCheckingWithoutMVC\obj\Debug\StudentCheckingWithoutMVC.pdb
